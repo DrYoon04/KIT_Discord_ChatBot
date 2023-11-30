@@ -62,6 +62,7 @@ async def chat(interaction: discord.Integration,질문사항 : str):
     embed1 = discord.Embed(title = "GPT", description = "답변생성중...",colour=0x3498DB)
     await interaction.response.send_message(embed = embed1)
     embed = discord.Embed(title = "GPT", description =gpt.chat(질문사항) ,colour=0x3498DB)
+    #embed 수정
     await interaction.edit_original_message(embed = embed)
     
 client.run(decoded_string)
