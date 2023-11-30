@@ -4,20 +4,20 @@ from datetime import datetime
 import base64
 from openai import OpenAI
 
-from module import searching
+# from module import searching
 from module import food
 
 now = datetime.now()
 date = now.strftime("%Y-%m-%d")
 
-file_path = "../gpt__key_base64.txt"
+file_path = "gpt_key_base64.txt"
 with open(file_path, 'r') as file:
     # 파일 내용 읽기
     encoded_content = file.read()
-
     # base64 디코딩
     decoded_content = base64.b64decode(encoded_content)
     decoded_string = decoded_content.decode('utf-8')
+
 os.environ["OPENAI_API_KEY"] = decoded_string
 client = OpenAI(
     # defaults to os.environ.get("OPENAI_API_KEY")
