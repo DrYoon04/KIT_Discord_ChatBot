@@ -36,12 +36,12 @@ def elasticsearch_finder(search_query):
     results = es.search(index=index_name, body=search_body)
 
     # 결과 출력
-    print(f"검색어 '{search_query}'에 대한 검색 결과:")
+
     for hit in results['hits']['hits']:
         # print(hit['_source']['text'])
 
         top_hit = results['hits']['hits'][0]['_source']['text']
-    print(top_hit)
+
 
     import os
     import base64  

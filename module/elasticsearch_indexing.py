@@ -25,7 +25,7 @@ if not es.indices.exists(index=index_name):
 
     import os
 # 폴더에서 데이터 읽어오기
-folder_path = "./module/data/notice_txt"
+folder_path = "./data/notice_txt"
 
 # 폴더 내의 모든 파일 목록 가져오기
 file_list = os.listdir(folder_path)
