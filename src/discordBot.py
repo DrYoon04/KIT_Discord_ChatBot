@@ -50,7 +50,7 @@ class Sender():
         try:
             user_id = interaction.user.id
             response = f'> **{send}** - <@{str(user_id)}> \n\n'
-            await interaction.followup.send(response,embed=receive)
+            await interaction.followup.send(receive)
             logger.info(f"{user_id} sent: {send}, response: {receive}")
         except Exception as e:
             await interaction.followup.send('> **Error: Something went wrong, please try again later!**')

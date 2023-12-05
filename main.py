@@ -31,7 +31,7 @@ def run():
         if interaction.user == client.user:
             return
         await interaction.response.defer()
-        receive = ese.elasticsearch_finder(message)
+        receive = gpt.chat(message)
         await sender.send_message(interaction, message, receive)
 
     

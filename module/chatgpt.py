@@ -2,8 +2,7 @@ import os
 from datetime import datetime
 import base64
 from openai import OpenAI
-
-# from module import searching
+frim module import elasticsearch_engine as ese
 from module import food
 
 now = datetime.now()
@@ -28,10 +27,12 @@ def chat(user):
         messages=[
             {"role": "system",
              "content": f"오늘 날짜 : {date}"
+                        "마크다운언어를 이용해서 깔끔하게 보여준다."
                         "사용자의 명령을 인식헤서 분류하는 쳇봇이다. 다음과 같이 무조건 답을 해야한다.(양식 설명의 중괄호는 뺴고 답하기)"
                         "기숙사 메뉴나 학생식당의 매뉴등을 물어본다면 {식단 장소이름 시간} 이 양식으로 답하면 된다."
                         "학교 공지사항을 물어본다면 {공지사항 물어본내용 오늘날짜는(오늘날짜)이다}이 양식으로 답하면 된다"
-                        "분류할 수 없는 질문을 하면 {오류} 라고 대답하면 된다."},
+                        "그외는 알아서 답해준다."
+                        "분류할 수 없는 질문을 하면 잘모르겠다 라고 대답하면 된다."},
             {"role": "user", "content": f"{user}"},
         ],
         model="gpt-4-1106-preview",
@@ -50,5 +51,5 @@ def chat(user):
         return food.get_menu_data(content[1])
     elif content[0] == "공지사항":
         combined_string = ' '.join(content[1:])
-        school = searching.school_notice(combined_string)
+        school = ese.elasticsearch_finder(combined_string)
         return school

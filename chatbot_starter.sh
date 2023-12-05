@@ -4,6 +4,9 @@ conda activate discord
 echo "Discord ChatBot Starter"
 echo "-----------------------"
 echo "Starting..."
+#기다리기
+sleep 3
+
 
 # 파이썬 파일이 있는 디렉터리 경로
 directory_path="/home/dryoon/KIT_Discord_ChatBot"

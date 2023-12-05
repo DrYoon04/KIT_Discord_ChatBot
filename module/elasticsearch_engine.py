@@ -62,7 +62,8 @@ def elasticsearch_finder(search_query):
 
     chat_completion = client.chat.completions.create(
     messages=[
-        {"role": "system","content": f"공지사항을 알려주는 쳇봇이다.마크다운언어를 이용해서 깔끔하게 보여준다."},
+        {"role": "system","content": f"공지사항을 알려주는 쳇봇이다."
+        "마크다운언어를 이용해서 깔끔하게 보여준다."},
         {"role": "user", "content": f"{top_hit}을보고 {search_query}에 대해 알려줘"},
     ],
     model="gpt-3.5-turbo-1106",
