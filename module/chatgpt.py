@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 import base64
 from openai import OpenAI
-frim module import elasticsearch_engine as ese
+from module import elasticsearch_engine as ese
 from module import food
 
 now = datetime.now()
