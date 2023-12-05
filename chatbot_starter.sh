@@ -1,5 +1,6 @@
 #!/bin/bash
 
+conda activate discord
 echo "Discord ChatBot Starter"
 echo "-----------------------"
 echo "Starting..."
