@@ -1,4 +1,3 @@
-
 import os
 from datetime import datetime
 import base64
@@ -51,10 +50,5 @@ def chat(user):
         return food.get_menu_data(content[1])
     elif content[0] == "공지사항":
         combined_string = ' '.join(content[1:])
-        school = searching.shool_notice(combined_string)
+        school = searching.school_notice(combined_string)
         return school
-
-
-
-
-

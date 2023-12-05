@@ -6,7 +6,7 @@ from discord.ext import commands
 from module import food
 from module import chatgpt as gpt
 import base64
-
+import time
 file_path = "discord_api_key_base64.txt"
 
 with open(file_path, 'r') as file:
@@ -20,7 +20,6 @@ with open(file_path, 'r') as file:
 #paramètres
 intents = discord.Intents.all()
 client = discord.Client(intents = intents)
-activity = discord.Activity(type = discord.ActivityType.streaming, name="name", url = "twitch_url")
 tree = app_commands.CommandTree(client)
 bot = commands.Bot(intents=intents, command_prefix="!")
 blue = discord.Color.from_rgb(0, 0, 200)
@@ -48,8 +47,10 @@ async def menu(interaction: discord.Integration,이름 : str):
 @tree.command(name='주사위',description='주사위가 조금... 이상한거 같습니다..!',guild=guild)
 async def rsp(interaction: discord.Integration,넣을숫자 :int):
     pick = random.randint(1,넣을숫자)
-    embed = discord.Embed(title='결과!',description=pick,colour=0x3498DB)
+    embed = discord.Embed(title='계산중...',description=pick,colour=0x3498DB)
     await interaction.response.send_message(embed = embed)
+    await interaction.message.edit(view=self.view)
+    await interaction.response.defer()
 
 @tree.command(name='메롱',description='😝',guild=guild)
 async def wow(interaction : discord.Integration):
@@ -60,9 +61,9 @@ async def wow(interaction : discord.Integration):
 @tree.command(name='chat', description='만능 명령어를 경험해보세요',guild=guild)
 async def chat(interaction: discord.Integration,질문사항 : str):
     embed1 = discord.Embed(title = "GPT", description = "답변생성중...",colour=0x3498DB)
-    await interaction.response.send_message(embed = embed1)
-    embed = discord.Embed(title = "GPT", description =gpt.chat(질문사항) ,colour=0x3498DB)
+    await interaction.message.send_message(embed = embed1)
+    embed = discord.Embed(title = "GPT", description ='답변생성완료' ,colour=0x3498DB)
 
-    await tree.edit(embed = embed)
+    await discord.InteractionResponse.edit_message(embed = embed)
     
 client.run(decoded_string)
