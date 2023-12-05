@@ -53,3 +53,5 @@ def chat(user):
         combined_string = ' '.join(content[1:])
         school = ese.elasticsearch_finder(combined_string)
         return school
+    else:
+        return content[0]
