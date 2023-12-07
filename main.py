@@ -36,14 +36,19 @@ def run():
 
     
     @client.tree.command(name='기숙사',description='기숙사 메뉴을 알 수 있습니다(푸름, 오름1, 오름3, 분식당, 교직원식당, 학생식당)')
-    async def menu(interaction: discord.Integration, *,이름 : str):
+    async def menu(interaction: discord.Integration,이름 : str):
         embed = discord.Embed(title = '😝오늘의 식단😝', description = food.get_menu_data(이름), colour=0x3498DB)
-        await interaction.response.send_messange(embed = embed)
+        await interaction.response.send_message(embed = embed)
 
 
     @client.tree.command(name="ping", description="Ping!")
     async def ping(interaction: discord.Interaction):
         await interaction.response.send_message("Pong!")
+
+    @client.tree.command(name='메롱',description='😝')
+    async def wow(interaction : discord.Integration):
+        embed = discord.Embed(title='😝',description='😝',colour=0x3498DB)
+        await interaction.response.send_message(embed = embed)
 
     client.run(decoded_string)
 

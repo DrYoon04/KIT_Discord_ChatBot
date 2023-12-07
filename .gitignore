@@ -158,3 +158,4 @@ module/test.ipynb
 ./module/searching.ipynb
 .DS_Store
 *.ipynb
+logs
