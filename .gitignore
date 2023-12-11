@@ -160,3 +160,4 @@ module/test.ipynb
 *.ipynb
 logs
 *.txt
+/no_use_file

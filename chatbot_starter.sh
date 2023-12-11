@@ -5,7 +5,9 @@ sleep 1
 echo "Discord ChatBot Starter"
 sleep 1
 
-
+sudo service elasticsearch start
+echo "Elasticsearch started"
+sleep 1
 # 몇초동안 입력이 없으면 자동 실행
 
 echo "Starting..."
