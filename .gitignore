@@ -159,3 +159,4 @@ module/test.ipynb
 .DS_Store
 *.ipynb
 logs
+*.txt
