@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=468758&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=468758&article.offset=0&articleLimit=500
 ▣ 아산사회복지재단에서 북한이탈청소년 장학생을 아래와 같이 선발하오니 해당 학생들의 많은 신청 바랍니다.

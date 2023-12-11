@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=449434&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=449434&article.offset=0&articleLimit=500
 1. 작업일시 : '23. 7. 6.(목) 20:00 ~ 20:30 (30분 정도)2. 작업내용: 정보시스템 서비스 증설3. 영향도: 작업기간 동안 홈페이지 등 교내 정보시스템 전체 일시 끊김 발생4. 영향받는 서비스 : 홈페이지, 코러스, 원스톱, 모바일 앱 서비스 등 정보서비스 일체5. 작업문의: 정보전산원 구승욱 (054-478-7185)

@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=424757&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=424757&article.offset=0&articleLimit=500
 수강꾸러미 수강소요를 반영하기 위하여콘텐츠전략과서비스기획(LA0345-01) 강좌의 수강인원을50명에서70명으로 증원하오니, 2,3학년 수강신청 시 참고하시기 바랍니다.※ 추가인원 반영은 2.16(목) 10시부터 적용※ 수강인원 증가로 강의실 변경 : 기존 D326 → DB125

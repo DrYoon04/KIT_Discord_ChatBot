@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=465468&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=465468&article.offset=0&articleLimit=500
 ▣ 대구광역시에서 학업성적이 우수한 학생을 선발하여 장학금을 지급하고 있으니, 해당 학생들의 많은 신청 바랍니다.<선발개요>가.지급대상:공고일(’23.10.16.)현재 대구시에 주민등록상 주소를 둔 대학(교)재학생나.선발인원: 56명 정도※지급금액에 따라 선발인원은 변동가능다.선발기준:붙임 공고문 참조라.지급금액:최대200만원(타 장학금 수령액 공제)마.신청기간: ’23.10.16.(월) ~ ’23.11.15.(수)바.신청장소:주소지 읍면동 행정복지센터

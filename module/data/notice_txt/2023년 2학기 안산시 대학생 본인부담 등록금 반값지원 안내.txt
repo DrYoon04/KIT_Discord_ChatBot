@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=463404&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=463404&article.offset=0&articleLimit=500
 ▣ 재단법인안산인재육성재단에서 「안산시 대학생 본인부담 등록금 반값지원」사업을 추진하고 있으니, 해당학생들의 많은 신청바랍니다.

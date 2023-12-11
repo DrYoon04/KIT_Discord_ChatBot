@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=423301&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=423301&article.offset=0&articleLimit=500
 ** 대학원 장학 관련 안내는 홈페이지 공지 또는 금오톡톡앱을 활용하여 안내(문자는 별도로 발송하지 않습니다)※ 금오톡톡 설치안내:https://cic.kumoh.ac.kr/cic/sub020502.do

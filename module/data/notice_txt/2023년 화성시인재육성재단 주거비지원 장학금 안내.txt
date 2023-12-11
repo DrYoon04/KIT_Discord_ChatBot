@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=435032&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=435032&article.offset=0&articleLimit=500
 가.장학금명:화성시인재육성재단 주거비지원 장학금나.지원자격1)본인 또는 부모,친권자가 화성시에서1년 이상 연속 거주한 비수도권 대학생※비수도권:서울,경기,인천을 제외한 국내지역2)한국장학재단 소득분위6분위 이내3)대학교 인근에서 자취 또는 기숙사 거주다.지원금액: 200만원(학기당100만원씩 분할지급)라.모집기간: 2023. 5. 15.(월) ~ 6. 5.(월) [22일간]마.문의사항:화성시인재육성재단 장학사업팀(☎031-898-5573)

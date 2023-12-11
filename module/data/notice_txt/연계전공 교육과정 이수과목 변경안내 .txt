@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=423808&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=423808&article.offset=0&articleLimit=500
 [연계전공 교육과정 이수과목 변경안내]연계전공 교육과정 이수과목 변경에 관한 사항 안내입니다. 연계전공 이수 학생은 첨부파일 확인 바랍니다.연계전공 및 대상학과시스템안전: 산업공학부(산업경영공학전공, 디자인공학전공)스마트 기계: 기계공학과, 기계설계공학과, 기계시스템공학과ICT: 컴퓨터공학과, 컴퓨터소프트웨어공학과, 전자공학부(전자 IT융합전공)문의사항: 지역선도대학육성사업팀(054-478-7995)

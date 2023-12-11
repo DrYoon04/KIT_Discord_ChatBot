@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=430786&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=430786&article.offset=0&articleLimit=500
 2023학년도 1학기 등록금 분할납부 3차분등록기간 안내1. 대    상:재학생중등록금 분할납부 신청자2. 등록기간:2023.4.24.(월)~ 4.25.(화)[매일 09시~ 16시]3. 등록장소: 농협은행 전국지점4. 고지서발급일자: 2023.4.18.(화) 09:00부터5. 고지서발급장소: kit menu-원스톱서비스-학사-등록금고지내역 조회/출력2023. 4. 17.사 무 국 장

@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=426523&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=426523&article.offset=0&articleLimit=500
 1. 지원내용가. 선발된 장학생에게 1년간 매월 장학금 지급(생활비)-대학생: 월 20만원(240만원)나. 선발된 장학생은 매월 '드림스토리(꿈을 위한 성장일기)'를 제출하고, 꿈을 찾는 여정을 재단과 나눔다. 자신이 꿈꾸는 분야의 전문가와의 1:1 멘토링 (연 2회 이상)라. 오픈클래스, 워크샵 등 별도의 프로그램 운영2. 신청방법: 월곡주얼리장학생 꿈 계획서와 관련증빙서류를 홈페이지에서 신청3. 신청기간: ~23. 03. 31.(금) 18시4. 문의: 02-747-1859

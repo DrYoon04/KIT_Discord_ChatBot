@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=462115&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=462115&article.offset=0&articleLimit=500
 도서관에서 서비스 중인 전자저널 및 온라인 학술DB이용을 다음과 같이 안내하오니 많이 활용하여 주시기 바랍니다.1.구독 전자저널 및 온라인 학술DB-국내KISS등9종,국외JCR등18종2.RISS무료 이용 해외DB(대학라이선스): AVON등42종3.이용방법가.구독 전자저널 및 온라인 학술DB-도서관 홈페이지 로그인→자료검색→전자자료검색→전자저널나.RISS무료 이용 해외DB-도서관 홈페이지 로그인→홈페이지 하단RISS배너 이용※RISS로그인–MyRiss–서비스 사용권한에서 시간대별 상세확인첨부1. 2023구독 전자저널 및 온라인 학술DB이용안내1부.2. 2023 RISS무료 해외DB이용안내1부.3. RISS해외전자자료 상세 이용안내1부.

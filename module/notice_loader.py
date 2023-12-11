@@ -33,5 +33,5 @@ for title, url in tqdm(title_url.items()):
     #파일로 저장
 
     with open(file_name, 'w', encoding='utf-8') as file:
-        file.write(f"url:{url}\n{text_content}")
+        file.write(f"url : {url}\n{text_content}")
     

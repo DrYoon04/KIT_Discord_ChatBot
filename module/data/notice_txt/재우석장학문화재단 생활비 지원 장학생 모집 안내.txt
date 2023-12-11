@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=428930&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=428930&article.offset=0&articleLimit=500
 ▣ 재단법인 우석장학문화재단에서 다음과 같이 장학생을 선발하오니 많은 신청바랍니다.

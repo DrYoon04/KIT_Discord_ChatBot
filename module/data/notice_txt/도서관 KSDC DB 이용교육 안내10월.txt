@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=464409&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=464409&article.offset=0&articleLimit=500
 도서관에서 구독 중인 학술DB이용 특강을 다음과 같이 실시하오니 관심있는 분들의 많은 참여 바랍니다.1.교육주제:양적자료,설문조사 및 통계분석을 위한KSDC DB활용2.교육방법: Zoom(추후URL발송예정),온라인 사전 등록3.교육일시 및 신청순번교육내용교육일시교육신청1일반교육‧온라인 설문조사 이용방법‧조사/통계자료 검색방법10.04.(수) 14:00~15:3010.04(수)일반교육:https://tinyurl.com/25apfrw810.27(금)일반교육:https://tinyurl.com/2atmhr9810.30(월)심화교육:https://tinyurl.com/24xc36s52일반교육10.27.(금) 14:00~15:303심화교육‧통계분석 이론‧통계분석을 위한 자료 작성방법10.30.(월) 14:00~15:30

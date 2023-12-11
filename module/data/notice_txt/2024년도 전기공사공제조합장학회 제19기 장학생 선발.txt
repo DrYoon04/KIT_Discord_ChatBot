@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=466378&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=466378&article.offset=0&articleLimit=500
 ▣ 2024년도 전기공사공제조합장학회에서 제19기 장학생을 선발하오니 해당 학생들의 많은 신청바랍니다.

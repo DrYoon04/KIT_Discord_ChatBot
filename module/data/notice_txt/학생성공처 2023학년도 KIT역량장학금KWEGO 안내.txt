@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=424378&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=424378&article.offset=0&articleLimit=500
 ■ 2023학년도 1학기 재학생 교내 성적우수장학금(준우등) 폐지  ☞KIT역량장학금(K-WEGO) 개편※ 자세한 사항은 아래 내용 참조바랍니다.

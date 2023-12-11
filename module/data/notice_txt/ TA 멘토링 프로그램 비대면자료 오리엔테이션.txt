@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=428852&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=428852&article.offset=0&articleLimit=500
 오리엔테이션 대면 진행이 불가하여 공지사항 및 자료로 오리엔테이션을 대신합니다.https://open.kakao.com/o/sUgADAcf

@@ -3,10 +3,12 @@ import discord
 import base64
 from src.discordBot import DiscordClient, Sender
 from src.server import keep_alive
+import datetime
 
 from module import food
 from module import chatgpt as gpt
 from module import elasticsearch_engine as ese
+print("main.py 실행중")
 file_path = "discord_api_key_base64.txt"
 
 with open(file_path, 'r') as file:
@@ -16,8 +18,6 @@ with open(file_path, 'r') as file:
     # base64 디코딩
     decoded_content = base64.b64decode(encoded_content)
     decoded_string = decoded_content.decode('utf-8')
-
-
 
 
 
@@ -33,6 +33,8 @@ def run():
         await interaction.response.defer()
         receive = gpt.chat(message)
         await sender.send_message(interaction, message, receive)
+
+
 
     
     @client.tree.command(name='기숙사',description='기숙사 메뉴을 알 수 있습니다(푸름, 오름1, 오름3, 분식당, 교직원식당, 학생식당)')

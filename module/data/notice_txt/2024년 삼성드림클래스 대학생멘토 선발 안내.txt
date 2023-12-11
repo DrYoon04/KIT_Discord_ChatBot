@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=469669&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=469669&article.offset=0&articleLimit=500
 삼성드림클래스에서는중학생들의 롤모델로서 우수한 역량과 봉사정신을겸비한 대학생멘토를선발하오니,많은 관심과 지원 바랍니다.

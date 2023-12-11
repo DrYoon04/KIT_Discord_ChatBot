@@ -1,2 +1,2 @@
-url:https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=460445&article.offset=0&articleLimit=500
+url : https://www.kumoh.ac.kr/ko/sub06_01_01_01.do?mode=view&articleNo=460445&article.offset=0&articleLimit=500
 도서관에서 구독 중인 학술DB이용 특강을 다음과 같이 실시합니다.관심 있는 대학원생 분들께서는 사전등록을 완료하여 주시기 바랍니다.1.교육주제: DBpia x드림셀파 논문작성 특강2.교육방법: Zoom(추후URL발송예정),온라인 사전 등록3.상세내용: [붙임]참조4.교육일시 및 신청순번교육내용교육일시교육신청1-논문작성법 이해와 전략-논문의 장별 특성이해-통계분석 방법 기초09.19.(화)14:00 ~ 16:00신청바로가기2-양적연구방법론별 논문분석-자료검색방법과 인용방법09.20.(수)14:00 ~ 16:00첨부드림셀파 교육 포스터1부.
